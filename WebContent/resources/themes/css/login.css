@@ -1,0 +1,53 @@
+ul{
+	list-style: none;
+}
+.top_li{
+	display: inline;
+}
+#login_footer{
+	position: absolute;
+	bottom: 25px;
+	left: 40%;
+}
+.navList{
+	position: absolute;
+	right: 20px;
+	top: 30px;
+}
+.login_title{
+	position: absolute;
+	top: 100px;
+	left: 700px;
+}
+.loginForm{
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	top: 175px;
+	left: 570px;
+	background-color: rgba(255,248,220,0.5);
+}
+.denglu{
+	text-align: center;
+}
+.login_bar{
+	position: relative;
+	top: 10px;
+}
+.sub{
+	font-family: kaiti;
+	font-size: 30px;
+}
+.bottom_ul{
+	position: absolute;
+	left: -25px;
+	top: 30px;
+}
+.question{
+	position: relative;
+	top: 20px;
+}
+.login_input{
+	width: 200px;
+	height: 30px;
+}
